@@ -11,7 +11,7 @@ Criado para armazenar os exercícios e projetos realizados durante as aulas do c
 - Dominando o NodeJS (ExpressJS)
 - Projeto Final: App inspirado no Evernote
 
-Para aqueles que tiverem interesse segue o link: programador.onebitcode.com
+Para aqueles que tiverem interesse segue o link do site: https://programador.onebitcode.com
 
 Até o próximo nível! :rocket:
 
