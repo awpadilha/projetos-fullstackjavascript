@@ -1,0 +1,36 @@
+h1 {
+  /* color: purple;
+  border-color: yellow;
+  border-width: 8px;
+  border-style: dashed; */
+
+  border: 2px dashed orange
+}
+
+li {
+  color: green;
+}
+
+body {
+  background-image: url(https://t.ctcdn.com.br/bBvCV7Mud44YX6fdmXqidBCG8HE=/512x288/smart/i398159.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.yellow-text {
+    color: orange;
+    font-size: 20px;
+}
+
+.big-text {
+    font-size: 40px
+}
+
+#europa-text {
+    font-size: 10px;
+    color: blue;
+}
+
+li {
+    color: grey;
+}
