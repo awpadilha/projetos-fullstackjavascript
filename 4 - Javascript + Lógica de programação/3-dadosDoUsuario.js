@@ -10,4 +10,4 @@ ageConfirmation = confirm("Sua idade é " + age + " anos");
 // alert("Idade: " + age)
 // alert("Idade confirmada: " + ageConfirmation)
 
-alert("Nome: " + name + "\nIdade: " + age + "\nIdade confirmada: " + ageConfirmation)
+alert("Nome: " + name + "\nIdade: " + age + "\nIdade confirmada: " + ageConfirmation) 
