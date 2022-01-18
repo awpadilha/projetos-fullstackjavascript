@@ -1,0 +1,1 @@
+// manipular  arrays pelo meio
