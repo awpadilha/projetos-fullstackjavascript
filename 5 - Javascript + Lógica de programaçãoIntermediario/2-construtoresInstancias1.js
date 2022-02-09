@@ -8,3 +8,5 @@ class SpacialStation {
 let observatory = new SpacialStation("Observatório", 40)
 
 console.log(observatory)
+
+ 
